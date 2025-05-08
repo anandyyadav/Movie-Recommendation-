@@ -120,7 +120,7 @@ streamlit run app.py
 ## 🧑‍💻 Author
 
 Developed by **Anand Yadav**
-GitHub: [@anandy07](https://github.com/anandy07)
+GitHub: [@anandyyadav](https://github.com/anandyyadav)
 Live App: [movie-recommendation-system.streamlit.app](https://movie-recommendation-system-i226rkr4lovu9kfe43fdjq.streamlit.app/)
 
 ---
