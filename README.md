@@ -121,7 +121,7 @@ streamlit run app.py
 
 Developed by **Anand Yadav**
 GitHub: [@anandyyadav](https://github.com/anandyyadav)
-Live App: [movie-recommendation-system.streamlit.app](https://movie-recommendation-system-i226rkr4lovu9kfe43fdjq.streamlit.app/)
+Live App: [movie-recommendation-system.streamlit.app](https://movie-recommendation-system-d2ytmeu4n9wxtkfudltfbg.streamlit.app/)
 
 ---
 
