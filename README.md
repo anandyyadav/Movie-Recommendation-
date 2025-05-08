@@ -6,7 +6,7 @@
 
 An intelligent movie recommendation system built using **Python**, **Streamlit**, and **TMDb API**. It suggests 5 similar movies based on your selected movie and displays rich visuals including **posters**, **ratings**, and **genres**.
 
-![App Screenshot](https://movie-recommendation-system-i226rkr4lovu9kfe43fdjq.streamlit.app/)
+
 
 ---
 
